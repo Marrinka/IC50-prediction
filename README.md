@@ -14,8 +14,8 @@ https://www.notion.so/ML-Project-b0aaaf46503e4d00985996a710d5e053
 
 |   SMILES preprocessing       | Combination of Linear Layers | CNN + bidirectional GRU | Transformer | Linear regressioon | CatBoost
 |------------------------------|------------------------------|-------------------------|-------------|--------------------|---------
-| Morgan's Fingerprints (2D)   |              7.48            |                         |             |                    |
+| Morgan's Fingerprints (2D)   |       mse = 7.48             |                         |             |                    |
 | Custom descriptors list (2D) |                              |                         |             |                    |
 | Morgan's Fingerprints + 1D   |                              |                         |             |                    |
-| Custom descriptors list + 1D |             8.4              |                         |             |                    |
+| Custom descriptors list + 1D |       mse = 8.4 r2 = -inf    |                         |             |                    |
 |               3D             |                              |                         |             |                    |
