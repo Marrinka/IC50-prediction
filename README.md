@@ -15,5 +15,5 @@
 | Morgan's Fingerprints (2D)   |              7.48            |                         |             |
 | Custom descriptors list (2D) |                              |                         |             |
 | Morgan's Fingerprints + 1D   |                              |                         |             |
-| Custom descriptors list + 1D |                              |                         |             |
+| Custom descriptors list + 1D |             8.4              |                         |             |
 |               3D             |                              |                         |             |
