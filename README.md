@@ -19,4 +19,4 @@ https://www.notion.so/ML-Project-b0aaaf46503e4d00985996a710d5e053
 | Custom descriptors list (2D) |               |              |             |           |       |     |          |         |        |
 | Morgan's Fingerprints + 1D   |               |              |             |           |       |     |          |         |        |
 | Custom descriptors list + 1D |      8.6      |    inf       |             |           |       |     |          |         |        |
-|               3D             |                              |             |           |       |     |          |         |        |
+|               3D             |               |              |             |           |       |     |          |         |        |
