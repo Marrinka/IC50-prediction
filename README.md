@@ -13,8 +13,8 @@ https://www.notion.so/ML-Project-b0aaaf46503e4d00985996a710d5e053
 Ниже представлена таблица, демонстрирующая метрики (MSE) на валидационной выборке для каждого из выбранных способов:
 
 |   SMILES preprocessing       | Combination of Linear Layers | CNN + bidirectional GRU | Transformer | Linear regressioon |    CatBoost
-|------------------------------|------------------------------|-------------------------|-------------|--------------------|----------------
-|------------------------------|     mse       |     r2       |     mse     |    r2     |  mse  |  r2 |    mse   |   r2    |   mse  |   r2
+|------------------------------|---------------|--------------|-------------|-----------|-------|-----|----------|---------|--------|-------
+|                              |     mse       |     r2       |     mse     |    r2     |  mse  |  r2 |    mse   |   r2    |   mse  |   r2
 | Morgan's Fingerprints (2D)   |     7.48      |              |             |           |       |     |          |         |        |
 | Custom descriptors list (2D) |               |              |             |           |       |     |          |         |        |
 | Morgan's Fingerprints + 1D   |               |              |             |           |       |     |          |         |        |
