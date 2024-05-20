@@ -10,10 +10,10 @@
 
 Ниже представлена таблица, демонстрирующая метрики (MSE) на валидационной выборке для каждого из выбранных способов:
 
-|   SMILES preprocessing       | Combination of Linear Layers | CNN + bidirectional GRU | Transformer |
-|------------------------------|------------------------------|-------------------------|-------------|
-| Morgan's Fingerprints (2D)   |              7.48            |                         |             |
-| Custom descriptors list (2D) |                              |                         |             |
-| Morgan's Fingerprints + 1D   |                              |                         |             |
-| Custom descriptors list + 1D |             8.4              |                         |             |
-|               3D             |                              |                         |             |
+|   SMILES preprocessing       | Combination of Linear Layers | CNN + bidirectional GRU | Transformer | Linear regressioon | CatBoost
+|------------------------------|------------------------------|-------------------------|-------------|--------------------|---------
+| Morgan's Fingerprints (2D)   |              7.48            |                         |             |                    |
+| Custom descriptors list (2D) |                              |                         |             |                    |
+| Morgan's Fingerprints + 1D   |                              |                         |             |                    |
+| Custom descriptors list + 1D |             8.4              |                         |             |                    |
+|               3D             |                              |                         |             |                    |
