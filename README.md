@@ -17,5 +17,5 @@ https://www.notion.so/ML-Project-b0aaaf46503e4d00985996a710d5e053
 | Morgan's Fingerprints (2D)   |    mse: 7.48                 |                         |             |                    |         
 | Custom descriptors list (2D) |                              |                         |             |                    |         
 | Morgan's Fingerprints + 1D   |                              |                         |             |                    |         
-| Custom descriptors list + 1D |    mse: 8.6       r2: -20    |                         |             | mse: 2000 r2: 0.128|                          
+| Custom descriptors list + 1D |    mse: 8.6       r2: -20    |                         |             | mse: 2000 r2: 0.128| mse:1000 r2:0.5752                         
 |               3D             |                              |                         |             |                    |         
